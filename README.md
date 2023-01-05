@@ -1,4 +1,7 @@
-### Hi there 👋
+### 👋 Hi there 👋
+안녕하세요! 제 이름은 윤서혜입니다. 
+저는 맛집탐방을 좋아하는 신입개발자입니다!
+현재는 백엔드 개발자가 되기위해 공부중입니다 :)
 
 <!--
 **yun-jam/yun-jam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
